@@ -30,7 +30,7 @@ public class HelloWorldBean {
 	}
 
 	private void thisIsDevelopment(){
-		System.out.println("this is developement stuff");
+		System.out.println("this is developement feature changes");
 	}
 
 }
