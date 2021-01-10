@@ -25,4 +25,8 @@ public class HelloWorldBean {
 		System.out.println("this is my method");
 	}
 
+	private void thisIsMasterMethod(){
+		System.out.println("this is master branch");
+	}
+
 }
