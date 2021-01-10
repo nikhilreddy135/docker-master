@@ -21,4 +21,8 @@ public class HelloWorldBean {
 		return String.format("HelloWorldBean [message=%s]", message);
 	}
 
+	private void myMethod(){
+		System.out.println("this is my method");
+	}
+
 }
